@@ -1,0 +1,355 @@
+
+There is a long history of integrating cognitive and behavioral perspectives into the study of environmental risk, beginning with geographer Gilbert F. White’s work on floodplain management in the 1940s. White famously declared in his 1945 dissertation that: “floods are acts of god, but flood losses are largely acts of man,” making the point that it is the interaction between human perceptions and behaviors and natural hazards that explains the loss of life and property associated with extreme events (White 1945: 2). The fields of environmental psychology, sociology, geography, natural hazards, cultural studies, and media and communications have produced bodies of theoretical and empirical work that
+inform environmental policies with respect to hazard mitigation, emergency management, climate adaptation, and water conservation. The purposes of this chapter are: (a) to
+provide an overview of the way science and policy communities conceptualize the environmental risk of individuals and communities; and (b) show how these ideas have influenced contemporary public policy, focusing on climate change and urban water conservation.
+
+Some definitions are in order as we begin the process of reviewing the perceptual and cognitive aspects of the geographical study of hazards. A hazard is an extreme natural event that disrupts the normal functioning of society in a significant way (Ramesh et al. 2007).
+
+Society has built up all sorts of mechanisms to cope with extreme natural events, including infrastructure, construction technology, insurance programs, building codes, zoning, and warning systems. Hazards exceed our capacity to cope and, by definition, disrupt the
+normal functioning of society and economy. Sudden onset hazards appear rapidly, and last for a period ranging from hours to weeks. They include floods, earthquakes, tornados, and wildfires. Chronic hazards are slow in onset and are barely noticeable to society; they include drought, sea-level rise, and weather events that may or may not be associated with climate change. They affect populations slowly, and become disasters only after they exceed a tipping point. (Cutter et al. 2009). The distinction between sudden onset and chronic hazards is significant in terms of perception and policy because the public at large and policy makers can anticipate floods such as those that occurred in the western USA from the 2016 “Godzilla” El Niño event and reduce their impacts on people and places. With chronic hazards such as climate change and drought, it is harder to interpret ongoing extreme events and distinguish them from longer-term, structural changes in society, economy, and environment. Causal mechanisms are less clear, and it is hard to distinguish between annual variations in temperature and precipitation and structural changes in climate and society.
+
+Both sudden onset and chronic hazards can affect storm patterns and sea-level rise in a world where half the population now lives within 60 miles of the sea and three-quarters of all large cities are located along the coast (United Nations Environmental Programme 2012).
+
+All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. or applicable copyright law.
+
+Environmental risks and hazards 323
+Vulnerability is the diminished capacity to cope with extreme natural events. Vulnerability stems from: (a) physical exposure and the degree to which people are harmed from natural events; (b) social conditions, emphasizing demographic and socio-economic factors such as age, poverty, and inequality that create associated sensitivities; and (c) adaptive capacity to respond to disasters. Adaptive capacity takes the form of community engagement, strong public institutions, social memory, and social learning to translate past experiences into societal action to reduce environmental risk (Adger et al. 2005; Polsky et al. 2007).
+
+Resilience is the opposite of vulnerability. It involves “the extent to which a system can absorb recurrent perturbations and continue to regenerate without slowly degrading
+or even unexpectedly flipping into less desirable states” (Folke et al. 2005: 442–443).
+
+Resilience emphasizes the human and social capacity to process environmental risk
+and respond to it. The ability to deal with the uncertainty of climate, for instance, is a fundamental characteristic of resilient communities (Huitema and Meijerink 2010; Stein et al. 2013).
+
+18.2. ENVIRONMENTAL HAZARDS AND SUSTAINABILITY
+Despite Gilbert White’s early work on interactions between nature and society in causing environmental risk, much of the early research on natural hazards in the 1950s, 1960s, and 1970s focused on the physical processes associated with flooding, droughts, hurricanes, tornados, volcanic eruptions, wildfires, heat stress, infectious diseases, and other extreme events. Scientists characterized the biological and geophysical aspects of hazards and their spatial distributions, the probability of events and return periods, and emergency management procedures and recovery strategies. Even today, media coverage of disasters often emphasizes the natural event itself at the expense of the human processes that put people and their property at risk of harm.
+
+Early social science research emphasized the way individuals and society perceive and process environmental risk (Burton et al. 1978; Fischhoff et al. 1978; Slovic 1987). Political ecologists criticized the fixation on the physical aspects of hazards during the 1970s and 1980s. They argued that it is the political economy, not the biophysical event itself, which puts people in risky situations. (Blaikie et al. 1977; Wisner et al. 1977, 1994). Disasters are thus a complex mix of natural processes and human actions. Political economy theorists also emphasized the fact that the costs of hazards are unequally distributed, and that the unequal distribution of wealth reinforces existing power relations in society. In a seminal paper entitled “Taking the naturalness out of natural disasters,” O’Keefe et al. (1976) noted that rising worldwide vulnerability to hazards and disasters was due not to a change in climatological or biophysical events but to growing social and economic inequality that put people in unsafe places, limited societal support for them, and undermined
+their ability to cope. This conceptual framework shifted the point of focus from natural hazards to societal inequality and argued that less developed countries are marginalized by the West’s development patterns in an increasingly interdependent world (Zimmerer
+and Bassett 2003; Forsyth 2004; Peet and Watts 2004). In a reprise to the original call to arms from O’Keefe et al. (1976), Gaillard et al. (2014) chastised today’s climate adaptation efforts for paying too much attention to the climate at the expense of the root causes of vulnerability. The focus on climate leads to investments in so-called “Big A” Adaptation EBSCOhost - printed on 2/8/2023 3:02 AM via NATIONAL TAIWAN UNIVERSITY. All use subject to https://www.ebsco.com/terms-of-use MONTELLO 9781784717537 PRINT (4col).indd 323
+13/03/2018 15:22
+324 Handbook of behavioral and cognitive geography
+efforts such as mega-scale infrastructure projects (dams, reservoirs, biofuel projects, and urban drainage) at the expense of “Little A” Adaptation investments in local resource managers such as fishermen, farmers, pastoralists, local craftsmen, and small business owners who are feeling the impacts of climate change.
+
+More recently, in part because of the rise of sustainability science and its inherent interest in the concepts of vulnerability, resilience, and system dynamics, the hazards field has shifted back to Gilbert White’s initial focus on the interactions between society and nature in exposing people to loss of life and harm to property. Wisner et al.’s (1994) Pressure and Release Model of Vulnerability conceptualizes disasters as stemming from both biophysical and human processes. The idea of release occurs when a natural event (either sudden or chronic) interacts with increasing human vulnerability. The progression of vulnerability begins with root causes (e.g. power relations, economic systems, political systems). Dynamic pressures (e.g. population growth, increasing urbanization, neo-liberal conditions that reduce the role of government, market forces, deforestation) translate conditions created by the root causes into unsafe conditions (e.g. people forced to live on hillslopes, floodplains, and coastal zones; unable to afford insurance; living under the jurisdiction of governments that reduce their role in hazard mitigation and emergency management). Disaster occurs when this causal chain of root causes interacts with natural hazards, dynamic pressures, and unsafe conditions.
+
+Sustainability scientists emphasize the capacity for complex and dynamic human-
+natural coupled systems to adapt to interacting human and environmental processes. One key aspect of sustainability is the ability to experience hazards and maintain steady-state conditions. Turner et al. (2003) identified key aspects of vulnerability from a sustainability perspective. They include:
+(a) the presence of multiple, interacting stressors;
+(b) system dynamics--how the entire system experiences hazards;
+(c) sensitivity to exposure;
+(d) capacity to cope, i.e. resilience;
+(e) ability to regroup and adapt to change;
+(f) the fact that people experience hazard in local places, but those places are affected by larger global and national processes; and
+(g) awareness that environmental risk is non-linear in nature, triggering critical thresholds. These non-linear properties are often key to understanding how societies
+approach important thresholds with little warning or limited past experience.
+
+18.3. ENVIRONMENTAL RISK PERCEPTIONS AND
+BEHAVIORS
+People make decisions on an everyday basis about how to manage environmental risk.
+
+They buy flood insurance (or not), put flood-prone homes on stilts or surround them
+with berms, and buy new homes in flood plains, coastal zones, or at the urban–wildlands interface. It helps to understand what behavioral scientists have learned over the past 50
+years about how people understand environmental risk and make risk-based decisions.
+
+An early, seminal idea in behavioral economics offers insight into why people do not
+EBSCOhost - printed on 2/8/2023 3:02 AM via NATIONAL TAIWAN UNIVERSITY. All use subject to https://www.ebsco.com/terms-of-use MONTELLO 9781784717537 PRINT (4col).indd 324
+13/03/2018 15:22
+Environmental risks and hazards 325
+always behave like “economic men” using utility theory to make environmental decisions.
+
+In 1979, Nobel Laureates Daniel Kahneman and Amos Tversky put forth a set of ideas
+called “Prospect Theory” to understand how individuals weigh alternative prospects
+and make decisions in the face of risk. They described how people choose between
+probabilistic alternatives (Kahneman and Tversky 1979). In an extensive set of behav-
+ioral experiments, they proved that problem frames affect how people make risk-based
+decisions. People are risk averse when they are in situations of perceived gain (trying to improve what they already have) and risk taking when they have something to lose (e.g.
+
+trying to avoid disaster or catastrophe). They exhibit a general tendency for risk-seeking behaviors when confronted with negatively framed problems but risk-averse behaviors
+when presented with positively framed problems (Gonzalez et al. 2005).
+
+Prospect Theory helps to explain why decisions are often not rational choices based
+on probability theory but a reaction to different problem frames and a process by which different personal goals are achieved. In hazards and disaster management, framing can affect how decision makers view the problem and hence evaluate environmental risk. An example is the use of NIMBY (not in my backyard) to frame discussion about the siting of nuclear power plants and hazardous waste sites. The negative connotation of NIMBY
+is now widely used to frame decisions around any unwanted land use, including shopping malls, homeless shelters, and even parks. It triggers thoughts of negative community
+reaction, and leads decision makers to take aggressive action to avoid risk (Asgary and Levi 2009).
+
+Marx et al. (2007) differentiated between the analytical and sensory components
+of decision making for the processing of climate hazard information. Analytical
+processing uses logical rules, deliberative methods, and statistical information about probabilities of particular outcomes. It relies heavily on formal analytical brain
+functions. Experiential processing relies on the decision maker’s past experiences
+and his/her memories of the event and feelings about it. Decision making under risk
+(known probabilities) and uncertainty (unknown probabilities) relies on both of these.
+
+Psychologists seek to understand how the two processing systems interact to affect risk management and decision making. In fact, the two systems of analytical and experiential processing work together to help people evaluate environmental risk. Analytical processing affects how people formally assess their current situations relative to their experience. Experiential information helps them to remember how they felt in similar
+past situations. They use analytical processing to make logical plans for the future, and experiential information to integrate their experiences and feelings into the decision process. Empirical experiments investigated how people combine statistical and
+experiential information and find that experiential information overwhelms statistical information, unless statistical information connects in some ways to their personal
+experiences (Marx et al. 2007).
+
+Evidence-based decision making in the context of climate change assumes that the
+past is a reliable guide to the future. Environmental scientists increasingly questioned the assumption that historical records are useful guide to future conditions. Milly et al. (2008) argued that changes in climate have inexorably altered annual streamflow and peak runoff, and human activity has altered land use and management conditions. They declared that stationarity is dead. Non-stationarity means that the analytical system used in the past for water resource development may no longer be a useful guide to future planning. In EBSCOhost - printed on 2/8/2023 3:02 AM via NATIONAL TAIWAN UNIVERSITY. All use subject to https://www.ebsco.com/terms-of-use MONTELLO 9781784717537 PRINT (4col).indd 325
+13/03/2018 15:22
+326 Handbook of behavioral and cognitive geography
+China, for example, construction of the Three Gorges Dam has fundamentally altered the environmental risks of the downstream environment. Construction of the dam increased
+the risk of landslides and reservoir-related earthquakes, reduced biodiversity, and led to more-than-expected relocation of long-time residents (Wines 2011).
+
+18.3.1. Heuristics
+People often use heuristics to make decisions when risk information cannot be processed analytically. Heuristics are simple, efficient rules that people use to form judgements. They are shortcuts to evaluate situations and make decisions. For the most part, heuristics cut down on processing time. Their use can have advantages and disadvantages for environmental decision making.
+
+Marx et al. (2007) identified three heuristics (affect, availability, and recency) in making decisions in the face of environmental risk. They help to understand the mental shortcuts that people use to make decisions. Affect involves unconscious emotions and feelings. Affective decisions are quick and automatic reactions to feelings. Negative feelings associated with climate change are stronger predictors of public attitudes and policy preferences than demographic and socio-economic characteristics (Leiserowitz
+2006). In a review of the factors that shape public attitudes and behaviors with respect to climate change, Patchen (2006) found that people were more willing to act when they were emotionally aroused and feeling fear and anger at the dangers of environmental
+threats. Thus, messages about the consequences of climate change are likely to be more impactful on attitudes and behaviors when they incorporate what it means for people’s lives as farmers, hunters, anglers, gardeners, hikers, and nature lovers rather than in the analytical language of climate science.
+
+The availability heuristic incorporates the idea that people solve problems based on
+what they remember and how easily their memories can be retrieved. Natural hazards
+scholars have long recognized the importance of memory in assessing the dangers of
+floodplain development. The levee effect incorporates the idea that investment in flood mitigation infrastructure reduces the short-term perception of risk but increases long-term vulnerability to high-impact events (Kates et al. 2006; Burton and Cutter 2008; Montz and Tobin 2008). Investment in infrastructure often makes people feel safer, memories of past events fade, and more intense economic development takes place close to the river.
+
+The long-term impact of levee construction is to reduce damage from low-impact events but increase harm from low-probability, high-intensity events such as Hurricane Katrina, which had a catastrophic impact on New Orleans and the Gulf Coast Region (Colton
+2009). Di Baldassarre et al. (2013) recently conceptualized floodplain management as the interplay between biophysical processes and social memory. This view accounts for the fact that communities often avoid hazardous areas when their memories are fresh but
+return to them with the passing of time.
+
+The third relevant and related heuristic is “recency,” the tendency for people to over-weigh the experience of very rare events that have occurred in the recent past. Emphasis on recent experience may in fact be more indicative of future risk from climate change than long-term climate records because of Milly et al.’s (2008) point about the problem of decision making in a non-stationary climate.
+
+EBSCOhost - printed on 2/8/2023 3:02 AM via NATIONAL TAIWAN UNIVERSITY. All use subject to https://www.ebsco.com/terms-of-use MONTELLO 9781784717537 PRINT (4col).indd 326
+13/03/2018 15:22
+Environmental risks and hazards 327
+18.4. SOCIAL AMPLIFICATION OF RISK FRAMEWORK
+Decisions about how to manage hazard risk are a matter of both individual and
+societal perceptions and decisions. Individuals make decisions about whether to buy
+insurance, evacuate dangerous areas, and respond to disasters. Society decides to offer insurance programs, build infrastructure, establish and enforce building codes, and
+implement effective emergency management systems. The Social Amplification of Risk
+Framework, first articulated by Kasperson et al. (1988), explained why certain events trigger public concern and societal action, while others do not. Risk stems from an
+experience of potential harm, as reflected in the way people and institutions process threat. Public perceptions of risk stem from psychological biases, economic interests, and cultural values. The media has a critical role to play, as they communicate the ele-ments of hazardous events to a majority of people. People respond to these messages
+through a variety of mechanisms that can either intensify or attenuate the perception of technical risk, as defined by experts. These perceptions then interact with social, institutional, and cultural processes in ways that amplify or attenuate the public
+response (Kasperson and Kasperson 1996). Amplification thus occurs at two stages: in
+the transfer of information about the risk and in the response mechanisms of society.
+
+Johnson et al. (2005) noted that the policy response to flood crisis varied markedly in England and Wales, and they used a case study approach of four national-scale flooding events in 1947, 1953, 1998, and 2000 to understand why some catalytic events like floods translate into hazard-mitigation policy, while others do not. Their conceptual framework relied heavily on the policy science literature and envisioned policy formula-tion as a process of incremental change punctuated by dramatic events, such as floods, when public attention focuses on flood hazard and a window of opportunity opens
+to allow policy to change. The window is navigated by a class of people called “policy entrepreneurs.” It does not stay open for long, and success in changing policy is largely a function of the effectiveness of the policy entrepreneurs to translate public attention into collective action.
+
+18.5. CASE STUDIES
+Ideas about environmental risk help to frame and interpret a range of environmental
+problems and their respective policy contexts. Climate change policy in the USA and
+worldwide can be explained, in large part, by public attitudes about environmental change and its causes, the veracity of scientific information, and the social contexts in which they are processed and translated into public policy. Efforts to reduce urban water use, especially outdoor use, incorporate individual behaviors, societal expectations, technology, and conservation policy. This section will use these two case studies to explore the way attitudes and behaviors reduce or exacerbate vulnerability to environmental change.
+
+18.5.1. Climate Change Perceptions
+The profound disconnection between climate science and policy has led social scientists to explore public perceptions of climate change. Results of these studies reveal an
+EBSCOhost - printed on 2/8/2023 3:02 AM via NATIONAL TAIWAN UNIVERSITY. All use subject to https://www.ebsco.com/terms-of-use MONTELLO 9781784717537 PRINT (4col).indd 327
+13/03/2018 15:22
+328 Handbook of behavioral and cognitive geography
+extraordinary wide range of climate change perceptions worldwide. In 2009, the World
+Bank queried the residents of 15 countries about the seriousness of climate change, its priority relative to other problems, and its impact on people’s lives. Results showed a divide between poor countries lacking capacity to adapt and affluent countries whose
+residents are less worried about the seriousness, consequences, and timing of climate change. Only 31% of Americans, 38% of Japanese, 43% of French, and 30% of Russians
+saw climate change as a very serious problem. Climate change was also of relatively little concern in China, where only 28% saw it as a very serious problem. In contrast, climate change was a very serious problem for 90% of respondents in Mexico, 85% in Bangladesh, 75% in Kenya, and 61% in Indonesia. In nine of 15 countries, a majority thought that
+climate change is already doing harm to people in their countries, but in six countries, including Russia and the USA, only a minority thought climate change is having an effect now. Majorities in all countries thought that there would be widespread adverse effects if climate change impacts were unchecked (World Bank 2009).
+
+These differences in public attitudes also pertain within the USA. In Global Warming’s Six Americas, Roser-Renouf et al. (2014) showed that attitudes about climate change differed significantly across six demographic, cultural, and political groups. There are in fact six separate audiences within the American public, and each views science and policy information and forms opinions about climate change in its own way. The survey asked
+Americans about climate change, information sources, risk perceptions, motivations,
+values, behaviors, and policy preferences. The Six Americas vary on these dimensions, and they exhibit vastly different levels of engagement. The “Alarmed” are convinced
+that climate change is a reality. They are fully engaged in doing something about it on a personal level and favor political action. The “Concerned” believe that climate change is happening, but they are not yet personally involved in the issue. The “Cautious,”
+“Disengaged,” and “Doubtful” represent different stages of awareness and engagement,
+but are not actively involved at this time. Active opposition to climate action comes primarily from “Dismissives” (who represent 10% of respondents). They are convinced
+that climate change is not happening and are actively involved as opponents. They are quite sure about their views, unlikely to change their minds, and believe there is substan-tive disagreement in the scientific community about the science of climate change. They are convinced that global warming will not affect them personally, will not harm future generations, and is not a problem for the USA.
+
+In-depth and repeated public opinion studies have monitored and compared Canada
+and the US in their climate change attitudes (Borick et al. 2011). There is stronger belief in the existence of climate change in Canada than in the United States, but there are parts of Canada (e.g. the western provinces of Alberta and Saskatchewan) that are as skeptical about climate change as anywhere in the USA. Canadians are more likely to see climate change as a serious problem, and more are willing to pay higher taxes to achieve low
+carbon goals. There is far less skepticism about the scientific facts and interpretations in Canada than in the USA.
+
+Taken as a whole, studies show why it has been so hard to formulate climate policy in the USA or worldwide. The analytical basis for assessing risk is questioned by a vocal minority of the population, and relatively few people have yet personally experienced climate change impacts (as far as they are aware). In countries where these impacts occur, there is far more concern and support for policies to mitigate risk. Studies also show that EBSCOhost - printed on 2/8/2023 3:02 AM via NATIONAL TAIWAN UNIVERSITY. All use subject to https://www.ebsco.com/terms-of-use MONTELLO 9781784717537 PRINT (4col).indd 328
+13/03/2018 15:22
+Environmental risks and hazards 329
+1000
+y)
+800
+pita per da
+600
+Residential
+Total
+400
+ter Use (liters per ca
+200
+Wa
+01990
+1995
+2000
+2005
+2010
+2015
+Source: City of Phoenix Water Services.
+
+Figure 18.1 Declining per capita water use in Phoenix: 1990–2014
+subcultures have emerged on the topic of climate-change perceptions. Perceptions line up with demographic factors, sources of media information, and political viewpoints.
+
+18.5.2. Residential Water Conservation
+Perceptions and behaviors are increasingly relevant to urban water conservation as efforts to reduce residential water use shift from indoor to outdoor water (Gober et al. 2016).
+
+Residential water use has declined in most North American cities. In Phoenix, for example, liters per capita per day declined from 939 in 1990 to 685 in 2013 (City of Phoenix 2015; Figure 18.1). Coomes et al. (2010) used a combination of surveys and data-logging studies to show that declining household water use over the past several decades was due to economic, demographic, and policy factors. Increasing income boosted household
+water use, but this increase was offset by declining average household size and the infiltra-tion of water-efficient fixtures and appliances in North American homes reduced water use. The latter is the result of implementation of the 1992 USA Energy Policy Act, which established national water efficiency requirements and set maximum flow rates for all plumbing fixtures installed in new and renovated homes (Vickers and Braccacio 2014).
+
+Reductions in indoor water use has been largely a function of technology and policy with small behavioral and lifestyle changes required from individuals and households (Gober et al. 2016).
+
+With indoor water use reaching theoretical lows for cooking, sanitation, and other
+aspects of modern lifestyles, further gains in water conservation will probably come from outdoor water conservation, and it is here that cultural values and behavioral factors come into play. In a study of water use in 10 California cities, DeOreo et al. (2011) found that the conservation potential for outdoor uses was much higher than for indoor uses, EBSCOhost - printed on 2/8/2023 3:02 AM via NATIONAL TAIWAN UNIVERSITY. All use subject to https://www.ebsco.com/terms-of-use MONTELLO 9781784717537 PRINT (4col).indd 329
+13/03/2018 15:22
+330 Handbook of behavioral and cognitive geography
+and there are significant behavioral components to outdoor water conservation. They
+include the size of the irrigated area, the selection of plants on the landscape (native vegetation adapted to the local climate or irrigated lawns and trees), and the fact that a small number of over-irrigators account for a large share of excess water use. DeOreo et al.
+
+estimated that 15% of lots in the 10 California cities studied account for 62% of the excess irrigation (more than what is required to support plants via evapotranspiration). Coomes et al. (2010) found that 52% of households in the humid subtropical city of Louisville, Kentucky watered their gardens, 4.9% had a hot tub or spa filled year-round, and 8% had a swimming pool. Garden watering added an average of 22,356 liters annually to total
+annual household use; a spa or hot tub added 20,441 liters; and a pool added 89,714 liters, representing 6, 10, and 45% respectively of total household annual use. Discretionary outdoor water use related to lifestyles and prevailing cultural norms explains a sizable proportion of outdoor use in modern American society.
+
+Environmental psychologists have explored why certain people respond to conservation
+messages and others do not. Russell and Fielding (2010) attributed conservation behaviors to how positively or negatively people view particular policies. Also significant are beliefs and worldviews, routines and habits (stable behavior patterns that have been reinforced in the past), personal capabilities (the knowledge and skills to implement conservation practices), and contextual factors (policy, incentives, price, and personal characteristics such as age, income, and education).
+
+There is evidence of resistance to policy initiatives to reduce outdoor water use.
+
+Wickman et al. (2016), for example, found that high-income residents with in-ground
+irrigation systems in six North Carolina communities were unresponsive to changes in
+price and voluntary drought restrictions. Larson and Brumand (2014) found that many
+water customers in Phoenix were unaware of water regulations, and enforcement was lax because residents were reluctant to report on their neighbor’s compliance failures.
+
+Neel et al . (2014) found that self-presentation norms influenced outdoor water use. Self-presentation is a mechanism by which people seek to control how others see them. Their experiments asked university students and a community sample from a southwestern
+city to rate/judge the socio-demographic and personal characteristics of a person who preferred certain landscapes, based on landscape descriptions and photographs. Results showed that low water-use landscapes were associated with people that had lower sexual attractiveness and lower family orientation. Prototypical desert landscapes with drought-tolerant plants and gravel ground cover were associated with lower homeowner status and a generally more negative evaluation of homeowners.
+
+Geographers and landscape architects studied garden preferences as a cultural phe-
+nomenon. In The Crabgrass Frontier, Jackson (1985) credited Andrew Jackson Davis with establishing the single-family home with manicured lawns and gardens as the ideal manifestation of prosperity and society for 19th century middle-class Americans. Lawns and gardens were good places to nurture children and the mark of suburban respectabil-ity. With westward settlement, this ideal residential landscape was transferred to climates where it required sizable inputs of artificial chemicals and irrigated water. In Lawn People, Robbins (2007) theorized that landscape preferences stem from cultural attitudes and
+social norms that revolve around pride, status, identity, and the political economy forces of the lawn-care industry. He argued that high-maintenance, emerald-green lawns are
+not merely expressions of personal preferences; they are reflections of social status and EBSCOhost - printed on 2/8/2023 3:02 AM via NATIONAL TAIWAN UNIVERSITY. All use subject to https://www.ebsco.com/terms-of-use MONTELLO 9781784717537 PRINT (4col).indd 330
+13/03/2018 15:22
+Environmental risks and hazards 331
+the need for a larger collective identity. They also reflect efforts by the global lawn-care industry to sell fertilizers and seeds, lawn mowers, and irrigation equipment.
+
+Future reductions in outdoor residential use have strong behavioral and cultural
+dimensions. Achieving significant declines will involve tackling issues such as how people present themselves to others via their outdoor landscaping, removing flowers and trees that have been in place sometimes for generations, coaxing people to remove pools that define their outdoor lifestyles, reducing wasteful use among the relatively small proportion of households who now use automatic timing systems and outside contractors to
+care for lawns and gardens, and pricing water in a way that results in behavioral change.
+
+18.6. CONCLUSIONS
+Gilbert White’s tradition of linking human to natural forces to understand how individuals and societies perceive and respond to environmental risk is alive and well today in the hands of environmental psychologists, sociologists, and geographers. They remind
+natural science colleagues, economists, policy makers, and the public that people do not always behave the way we expect them to in managing environmental risk, and that human action is far more important than natural events in explaining harm to people and their property from natural hazards. This chapter was an effort to summarize core ideas in
+hazards research, refine them with new ideas and experiences from the social science of climate change and urban water conservation. A deeper understanding of environmental
+risks from a cognitive-behavioral perspective enables the development of more coherent policies of climate adaptation and urban water conservation.
+
+REFERENCES
+Adger, W.N., T.P. Hughes, C. Folke, S.R. Carpenter and J. Rockström (2005), Social-ecological resilience to coastal disasters, Science, 309 (5737), 1036–1039.
+
+Asgary, A. and J. Levi (2009), A review of the implications of prospect theory for natural hazards and disaster planning, International Journal of Environmental Research, 3 (3), 379–394.
+
+Blaikie, P., J. Cameron and J. Seddon (1977), Center, Periphery, and Access in West-Central Nepal: Social and Spatial Relations of Inequality. Monographs in Development Studies No. 5, University of East Anglia.
+
+Borick, C.P., E. Lachapelle and B.G. Rabe (2011), Climate compared: Public opinion on climate change in the United States and Canada, Review of Policy Research, 29 (3), 334–356.
+
+Burton, C. and S. Cutter (2008), Levee failures and social vulnerability in the Sacramento–San Joaquin Delta Area, California, National Hazards Review, 9 (3), 136–139.
+
+Burton, I., R.W. Kates and G.F. White (1978), The Environment as Hazard, New York: Oxford University Press.
+
+City of Phoenix (2015), Water Use in Liters and Gallons Per Capita Per Day, 1990–2013, Phoenix, AZ.
+
+Colton, C. (2009), Perilous Place, Powerful Storms: Hurricane Protection in Coastal Louisiana, Jackson, MS: University of Mississippi Press.
+
+Coomes P, T. Rockaway, J. Rivard and B. Kornstein (2010), North American Residential Water Usage Trends Since 1992, available at http://www.waterrf.org/PublicReportLibrary/4031.pdf (accessed 18 October 2016).
+
+Cutter, S.L., C.T. Emrich, J.J. Webb and D. Morath (2009), Social Vulnerability to Climate Variability Hazards: A Review of the Literature: Final Report to Oxfam America, Columbia, SC: Hazards and Vulnerability Research Institute, University of South Carolina.
+
+DeOreo, W.B., P. Mayer, W. Martien, L. Hayden, M. Funk, A. Kramer-Duffield, M. Davis, R. Henderson, B. Raucher, P. Gleick and M. Heberger (2011), California Single-Family Water Use Efficiency Study, available at http://www.aquacraft.com/2015/07/28/california-single-family-water-use-efficiency-study/ (accessed 18
+October 2016).
+
+EBSCOhost - printed on 2/8/2023 3:02 AM via NATIONAL TAIWAN UNIVERSITY. All use subject to https://www.ebsco.com/terms-of-use MONTELLO 9781784717537 PRINT (4col).indd 331
+13/03/2018 15:22
+332 Handbook of behavioral and cognitive geography
+Di Baldassarre, G., A. Viglione, G. Carr, L. Kuil, J.L. Salinas and G. Blöschl (2013), Socio-hydrology: conceptualizing human–flood interactions, Hydrology and Earth System Science, 17 (8), 3295–3303.
+
+Fischhoff, G., P. Slovic, S. Lichtenstein, S. Read and B. Combs (1978), How safe is safe enough? A psychometric study of attitudes towards technological risk and benefits, Policy Sciences, 9 (2), 127–152.
+
+Folke, C., T. Hahn, P. Olsson and J. Norberg (2005), Adaptive governance of socio-ecological systems, Annual Review of Environmental Resources, 30, 441–473.
+
+Forsyth, T. (2004), Critical Political Ecology: The Politics of Environmental Science, New York: Routledge.
+
+Gaillard, J.C., M. Glantz, I. Kelman, B. Weisner, Z. Delica-Willison and M. Keim (2014), Taking the “naturalness” out of natural disaster (again), Natural Hazards Observer, 38 (3), 2–9.
+
+Gober, P., R. Quay and K.L. Larson (2016), Outdoor water use as an adaptation problem: Insights from North America, Water Resources Management, 30 (3), 899–912.
+
+Gonzalez, C., J. Dana, H. Koshino and M. Just (2005), The framing effect and risky decisions: Examining cognitive functions with fMRI, Journal of Economic Psychology, 26 (1), 1–20.
+
+Huitema D and S. Meijerink (2010), Realizing water transitions: The role of policy entrepreneurs in water policy change, Ecology and Society, 15 (2), 26–34.
+
+Jackson, K.T. (1985), Crabgrass Frontier: The Suburbanization of the United States, Oxford: Oxford University Press.
+
+Johnson, C.L., S.M. Tunstall and E.C. Penning–Rowsell (2005), Floods as catalysts for policy change: Historical lessons from England and Wales, International Journal of Water Resources Development, 21 (4), 561–575.
+
+Kahneman, D. and A. Tversky (1979), Prospect theory: An analysis of decision under risk, Econometrica, 47
+(2), 263–292.
+
+Kasperson, R.E. and J.X. Kasperson (1996), Social amplification and attenuation of risk, Annals the American Academy of Political and Social Science, 545 (1), 95–105.
+
+Kasperson, R.E., O. Renn, P. Slovic, H.S. Brown, J. Emel, R. Goble, J.X. Kasperson and S. Ratick (1988), The social amplification of risk: A conceptual framework, Risk Analysis, 8 (2), 177–187.
+
+Kates, R.W., C.E. Colten, S. Laska and S.P. Leatherman (2006), Reconstruction of New Orleans after Hurricane Katrina: A research perspective, Proceedings of the National Academy of Sciences, 103 (40), 14653–14660.
+
+Larson, K.L. and J. Brumand (2014). Paradoxes in landscape management and water conservation: Examining neighborhood norms and institutional forces, Cities and the Environment, 7 (1), 1–24.
+
+Leiserowitz, A. (2006), Climate change risk perception and policy preferences: The role of affect, imagery, and values, Climate Change, 77 (1), 45–72.
+
+Marx, S.M., E.U. Weber, B.S. Orlove, A. Leiserowitz, D.H. Krantz, C. Roncili and J. Phillips (2007), Communication and mental processes: Experiential and analytic processing of uncertain climate information, Global Environmental Change, 17 (1), 47–58.
+
+Milly, P.C.D., J. Betancourt, M. Falkenmark, R.M. Hirsch, Z.W. Kundzewicz, D.P. Lettenmaier and R.J.
+
+Stouffer (2008), Stationarity is dead: Whither water management?, Science, 319 (5863), 573–574.
+
+Montz, B. and G. Tobin (2008), Livin’ large with levees: Lessons learned and lost, Natural Hazards Review, 9
+(3), 150–157.
+
+Neel, R., E. Sadalla, A. Berlin, S. Ledlow and S. Neufeld (2014), The social symbolism of water-conserving landscaping, Journal of Environmental Psychology, 40, 49–56.
+
+O’Keefe, P., K. Westgate and B. Wisner, (1976), Taking the naturalness out of natural disasters, Nature 260
+(5552), 566–567.
+
+Patchen, M. (2006), Public Attitudes and Behavior about Climate Change: What Shapes Them and How to Influence Them, PCCRC Outreach Publication 0601, West Lafayette, IN: Purdue University.
+
+Peet, R. and M. Watts (2004), Liberation Ecologies: Environment, Development, and Social Movements (2nd edition), London: Routledge.
+
+Polsky, C., R. Neff and B. Yarnal (2007), Building comparable global change vulnerability assessments: The vulnerability scoping diagram, Global Environmental Change, 17 (3–4), 472–485.
+
+Ramesh, R.R., J. Eisenberg and T. Schmitt (2007), Improving Disaster Management: The Role of it in Mitigation, Preparedness, Response, and Recovery, Washington, DC: National Academies Press.
+
+Robbins P. (2007), Lawn People: How Grasses, Weeds, and Chemicals Make Us Who We Are, Philadelphia, PA: Temple University Press.
+
+Roser-Renouf, C., E. Maibach, A. Leiserowitz, G. Feinberg, S. Rosenthal and J. Kreslake (2014), Global Warming’s Six Americas, October, 2014: Perception of the Health Consequences of Global Warming and Update on Key Beliefs, New Haven, CT: Yale University Project on Climate Change Communication, Yale University, and George Mason University.
+
+Russell S. and K. Fielding (2010), Water demand management research: A psychological perspective, Water Resources Research, 46 (5), W05302, doi: 10.1029/2009WR008408.
+
+Slovic, P. (1987), Perception of risk, Science, 236 (4799), 280–285.
+
+Stein B.A., A. Staudt, M.A. Cross, N.S. Dubois, C. Enquist, R. Griffis, L J. Hansen, J.J. Hellmann, J.J, Lawler, E.J. Nelson and A. Pairis (2013), Preparing for and managing change: Climate adaptation for biodiversity and ecosystems, Frontiers in Ecology and the Environment, 11 (9), 502–510.
+
+EBSCOhost - printed on 2/8/2023 3:02 AM via NATIONAL TAIWAN UNIVERSITY. All use subject to https://www.ebsco.com/terms-of-use MONTELLO 9781784717537 PRINT (4col).indd 332
+13/03/2018 15:22
+Environmental risks and hazards 333
+Turner II, B.L., R.E. Kasperson, P.A. Matson, J.J. McCarthy, R.W. Corell, L. Christensen, N. Eckley, J.X.
+
+Kasperson, A. Luerse, M.L. Martello, C. Polsky, A. Pulsipher and A. Schiller (2003), Framework for vulnerability analysis in sustainability science, Proceedings of the National Academy of Sciences, 100 (14), 8074–8079.
+
+United Nations Environmental Programme (2012) Global Climate Change and the Role of Cities, available at http://www.unep.org/urban_environment/Publications/index.asp (accessed 19 October 2016).
+
+Vickers, A. and D. Bracciano (2014), Low-volume plumbing fixtures achieve water savings, Opflow, 40 (7) 8–9.
+
+White, G.F. (1945), Human Adjustment to Floods: A Geographical Approach to Flood Problems in the United States, Paper No. 29, Chicago, IL: Department of Geography Research, University of Chicago.
+
+Wickman, C.J., L.O. Taylor and R.H. von Haefen (2016), Conservation policies: Who responds to price and who responds to prescription?, Journal of Environmental Economics and Management, 79, 114–134.
+
+Wines, M. (2011), China admits problems with Three Gorges Dam, New York Times, May 19, 2011, available at http://www.nytimes.com/2011/05/20/world/asia/20gorges.html (accessed 19 October 2016).
+
+Wisner, B., P. O’Keefe and K. Westgate (1977), Global systems and local disasters: The untapped potential of people’s science, Disasters, 1 (1), 47–57.
+
+Wisner, B., P. Blaikie, T. Cannon and I. Davis (1994), At Risk: Natural Hazards, People’s Vulnerability and Disasters, New York: Routledge.
+
+World Bank (2009), Public Attitudes Toward Climate Change: Findings from a Multi-country Poll, available at http://
+documents.worldbank.org/curated/en/492141468160181277/Public-attitudes-toward-climate-change-findings-from-a-multi-country-poll (accessed 19 October 2016).
+
+Zimmerer, K.S. and T.J. Bassett (2003), Political Ecology: An Integrative Approach to Geography and Environment-development Studies, New York: Guilford Press.
+
+EBSCOhost - printed on 2/8/2023 3:02 AM via NATIONAL TAIWAN UNIVERSITY. All use subject to https://www.ebsco.com/terms-of-use MONTELLO 9781784717537 PRINT (4col).indd 333
+13/03/2018 15:22
+EBSCOhost - printed on 2/8/2023 3:02 AM via NATIONAL TAIWAN UNIVERSITY. All use subject to https://www.ebsco.com/terms-of-use MONTELLO 9781784717537 PRINT (4col).indd 334
+13/03/2018 15:22
+
+
