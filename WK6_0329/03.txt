@@ -1,0 +1,150 @@
+Artificial intelligence (AI) and behavioral geography have long enjoyed a symbiotic 
+relationship. While AI was initially viewed as a tool that geographers could use to 
+automate their work, that vista is shifting. Indeed, many authors—among them, Thrift 
+and French (2002), Graham (2005), and Stephenson (1993)—have suggested that AI has 
+become an autonomous producer, of a sort, of geography. This new view, of AI creating and shaping geography, is profound, in its suggestion that we have somehow ceded 
+geography-making to machines and software. In this chapter, I will make the argument 
+that the geography-smithing capabilities of AI are perhaps set to have the most significant 
+impact in behavioral geography. In this chapter, I will review the growing fusion between 
+AI and behavioral geography, beginning in the 1980s, when it was hoped that AI would 
+help geographers do geography with greater efficiency, speed, and accuracy, and when 
+there was significant enthusiasm for the technology ahead of something of a retreat from 
+the community’s good graces in the 1990s and 2000s. From there, I will pivot the discussion to the early 21st century, when the development of AI took off against a backcloth 
+of ubiquitous computing and matured consumer AI products that made use of spatial 
+data and geographical context to ascribe intelligence to devices and software. I will also 
+discuss a range of potential applications in which AI and behavioral geography are closely 
+intertwined, in the milieu of machine and computer vision, virtual worlds, agent-based 
+models, human–computer interaction, and cyber–physical systems. The motivation, in 
+highlighting these applications of behavioral geography and AI over other uses, relates 
+partially to my own vantage on the topic, as well as to near-future developments for AI 
+and behavioral geography. This latter topic serves as the focus for concluding remarks.
+20.2. BACKGROUND
+The development of AI can be traced back to the very beginnings of the age of digital 
+computers. Alan Turing was among the first to sketch the tableau for AI while outlining his ideas for intelligent machines. After years working on the problem of whether 
+machines could be fashioned to compute, Turing (1936, 1938) posited the simple and 
+provocative question of whether machines could think (Turing 1950). This set into motion 
+decades of deliberation about what might be considered as intelligent in a machine, and 
+how machine AI may compare with or contrast to human intelligence.
+MONTELLO 9781784717537 PRINT (4col).indd 357 13/03/2018 15:22
+Copyright 2018. Edward Elgar Publishing.
+All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. or applicable copyright law.
+EBSCO Publishing : eBook Collection (EBSCOhost) - printed on 2/8/2023 4:30 AM via NATIONAL TAIWAN UNIVERSITY
+AN: 1797153 ; Daniel R. Montello.; Handbook of Behavioral and Cognitive Geography
+Account: s6621599.main.ehost
+358 Handbook of behavioral and cognitive geography
+A first criterion for intelligence in AI generally wavers around a central idea that the 
+machines involved should display human-like intelligence, or at least that they should 
+do things that a human would regard as being intelligent (Simon 1977: 1059). (Indeed, 
+the premise that the machine should convince a human interpreter of its intelligence 
+was at the heart of the imitation game that Turing (1950) used as an allegory in his 
+seminal paper.) A second, popular notion is that machine intelligence might be a moving 
+benchmark (Kurzweil 1990: 12). Under this conceptualization, machines are envisaged 
+with the capacity to grow more and more intelligent, advancing toward some future level 
+of sophistication (usually referred to as a technological singularity; Ulam 1958) in which 
+machines become self-aware, conscious, as intelligent as humans, more intelligent than 
+humans, or some combination of these conditions that propels us into a post-human 
+era (Vinge 1993). A third, perhaps interim, criterion between Turing’s computers and 
+civilization-running artificial minds (Banks 1996) is that AI should endow machines 
+with the ability to do things that humans do (Simon 1977), albeit with tireless capacity 
+and precision that human effort might lack. Under this consideration, AI assumes 
+some of the attributes of intelligent automata (von Neumann 1951) or perhaps robots 
+(Asimov 1941), with independence and automation factoring as important defining 
+criteria.
+20.3. ARTIFICIAL INTELLIGENCE AND 20TH CENTURY 
+GEOGRAPHY
+The potential for AI as a medium for automating human analytical tasks seems to have 
+been the initial avenue through which geographers began to use AI. Initially, it was hoped 
+that AI would energize geography by assuming the day-to-day tasks of geographical 
+analysis that were amenable to automation: aspects of the geographer’s job that took a 
+long time, required duplication of effort, or were grand in their analytical burden. This 
+view is well articulated in Dobson’s (1983) paper on automated geography, in which he 
+outlined scenarios in which computer cartography, geographic information systems 
+(GIS), remote sensing, and visualization (which were then still relatively novel) could 
+supplement manual techniques in geographic problem solving to bolster the scale and 
+speed of analysis. (Interestingly, in the same paper, Dobson cautioned that a predominant 
+focus on measurement and objects that were easily accessible to automation might sway 
+geographers from “other important phenomena, such as the behavioral aspects of many 
+problems”; Dobson 1983: 139.)
+Smith’s (1984) paper on the pertinence of AI for geographical problem solving introduced the important distinction between what he termed an engineering approach and 
+a cognitive approach to using AI in geography. Indeed, in AI research (Brooks 1991), 
+a similar distinction is often made between AI for computers and AI for thought. The 
+engineering view of AI in geography considers machine intelligence in its most obvious 
+form, as a set of machine procedures (usually algorithms and heuristics) that work to 
+perform tasks. Image processing to unveil spatial patterns in data is a typical example of 
+the engineering approach (Bernstein 1976). An alternative view, the cognitive approach, 
+pitches AI in geography as a mimetic medium for representing human processes of 
+intelligent tasks. Symbolic reasoning on spatial relationships or objects is perhaps best 
+MONTELLO 9781784717537 PRINT (4col).indd 358 13/03/2018 15:22
+ EBSCOhost - printed on 2/8/2023 4:30 AM via NATIONAL TAIWAN UNIVERSITY. All use subject to https://www.ebsco.com/terms-of-use
+Artificial intelligence and behavioral geography 359
+representative of the cognitive approach to AI in geography as it was considered in the 
+1980s (Kuipers 1982).
+Smith’s characterization of the engineering approach to AI in geographical analysis 
+echoes Dobson’s assertions that AI might be productively used to automate many of the 
+things that geographers do, such as interpretation, monitoring, planning, and translation 
+(Smith 1984: 149). Referenced, in Smith’s depiction, is the idea of AI as an expert system 
+(Feigenbaum et al. 1971) that contains a corpus of domain knowledge as well as the 
+functions to apply it to a given task, resembling perhaps how humans use their knowledge 
+to inform their actions. Openshaw’s “Geographical Analysis Machine” (Openshaw et al. 
+1987), for example, is an early example of the engineering approach to AI in geography, 
+used to automate a battery of spatial analysis tasks by brute-force heuristic computing. 
+Fisher et al. (1988) saw the potential use of AI, particularly expert systems and computer 
+vision, in automating the interpretive tasks of geography relative to physical landscapes 
+and phenomena. Estes et al. (1986) also discussed the idea of using AI as expert systems 
+to automate exhaustive data searches over remotely sensed data, using heuristics relative 
+to a knowledge base (a classification scheme, for example). Armstrong made a similar 
+and salient point in arguing that computational science (which would include applied AI 
+in most definitions) comes into particular usefulness when brought to bear on “problems 
+that heretofore were either intractable, or, in some cases, unimagined” (Armstrong 2000: 
+146). Again, here, we see the argument that AI might leverage human talents for analysis, 
+but that it would do so at scale, with the implication that new questions might be posed 
+or that new insight might be gained beyond the reach of human operators.
+Smith’s discussion of AI in geography also invoked what Simon distinguished as artificial thinking (as distinct from AI), with the addendum that the machines involved would 
+exhibit “similarity of process as well as similarity of product” (Simon 1977: 159). This 
+argument bridges some of the gap between the engineering and cognitive approaches of 
+AI. It is in the invocation of artificial thinking that we see the seeds of AI and behavioral 
+geography, in which machines assume some of the analysis abilities of geographers, 
+alongside their analysis tasks. In other words, there is an argument to be made that the 
+types of problem solving (Newell and Simon 1972) that geographers engage in (and that 
+machines could take on, or take over) might invoke behaviors that are geographical. Smith 
+(1984) lists several examples—acquiring knowledge, organizing it, and reasoning relative 
+to decisions—that we might regard as adjuring special geographic activities (Freundschuh 
+and Egenhofer 1997). For example, the ways in which we go about acquiring geographic 
+information may be distinct relative to schemes for gathering other information types 
+(Golledge 1978; Gould 1975). Similarly, geographic knowledge may be stored in the 
+brain in physical structures that are special, such as dedicated place cells (Brun et al. 
+2002; O’Keefe et al. 1998), or in memory as cognitive and perceptual structures such as 
+mental maps (Gould and White 1974; Vishton and Cutting 1995). Spatial decisions may 
+be structured via criteria, such as spatial hierarchies, that diverge from other decisions 
+(Clark 1993; Kuipers 2000). By extension, if machines could be programmed to mimic, 
+replicate, or improve these human processes, then those machines might come to be 
+regarded as intelligent geographical machines, in part by assuming spatial abilities to 
+accomplish tasks.
+In hindsight, the use of AI in geography took off quite successfully after the late 1980s, 
+in large part owing to its usefulness in supporting GIS. Initially, at least, the introduction 
+MONTELLO 9781784717537 PRINT (4col).indd 359 13/03/2018 15:22
+ EBSCOhost - printed on 2/8/2023 4:30 AM via NATIONAL TAIWAN UNIVERSITY. All use subject to https://www.ebsco.com/terms-of-use
+360 Handbook of behavioral and cognitive geography
+of AI into geography met with some skepticism along a few significant lines of critique. 
+Some in geography seemed to grapple with what AI could introduce to the field. At the 
+time, the concept of AI might have seemed quite far afield from the topical pursuits of 
+many geographers. For example, in a commentary on Smith’s (1984) paper introducing 
+AI to geography, Nystuen (1984: 359) remarked that, “AI programs take a great deal of 
+expert intellectual effort and financial (computer) support. Few geographical problems 
+command such attention . . . Smith should reflect on the resource realities of a small 
+social science discipline like geography.” Couclelis (1986: 2) at the time phrased, very well, 
+another popular apprehension, rooted in “resistance to the underlying ‘human computer’ 
+metaphor” that AI presented. Her argument, which is well taken, speaks to the perhaps 
+lofty claims for AI in the 1970s and 1980s (Hendler 2008; Lighthill 1972), which went as 
+far as to suggest that AI might model the mind, mimic human thought, or teach machines 
+to learn.
+In the last 30–40 years, of course, computers and computing have become much more 
+essential to the work that geographers do, particularly in facets of the discipline for which 
+machines can automate routine tasks and in areas that allow geographers to do their work 
+with greater reach, with more precision, and in less time than they would otherwise be 
+able to accomplish (Dobson 1983). Along the same lines, as AI has been woven into the 
+backcloth of our everyday lives and experiences (Dodge and Kitchin 2005) and into the 
+things that we do to accomplish our research, our growing exposure to AI technology 
+(and in some cases our inability to understand its artificiality) has diluted at least some 
+of the skepticism and naysaying around its potential use. However, the automation 
+of geography has never dodged controversy (Thrift and French 2002), and legitimate 
