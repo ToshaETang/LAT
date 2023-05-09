@@ -78,5 +78,5 @@ function handleEvent(event){
 }
 ```
 
-<p>Here is my result</p>
+
 ![圖片](https://github.com/ToshaETang/LAT/blob/main/TextSentimentBot/homework4/resultImage.jpg "結果")
