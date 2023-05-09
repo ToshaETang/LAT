@@ -1,6 +1,6 @@
 <p>Here is my source code</p>
 
-'''
+```
 'use strict';
 const line = require('@line/bot-sdk'),
       express = require('express'),
@@ -76,4 +76,4 @@ function handleEvent(event){
       console.error("Error:", err);
     }); 
 }
-'''
+```
