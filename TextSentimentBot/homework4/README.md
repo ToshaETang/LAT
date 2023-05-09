@@ -79,4 +79,4 @@ function handleEvent(event){
 ```
 
 <p>Here is my result</p>
-![img](https://github.com/ToshaETang/LAT/blob/main/TextSentimentBot/homework4/resultImage.jpg)
+![圖片](https://github.com/ToshaETang/LAT/blob/main/TextSentimentBot/homework4/resultImage.jpg "結果")
