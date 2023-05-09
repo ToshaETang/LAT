@@ -1,5 +1,7 @@
 <p>Here is my source code</p>
-<pre><code>'use strict';
+
+'''
+'use strict';
 const line = require('@line/bot-sdk'),
       express = require('express'),
       configGet = require('config');
@@ -74,4 +76,4 @@ function handleEvent(event){
       console.error("Error:", err);
     }); 
 }
-</code></pre>
+'''
