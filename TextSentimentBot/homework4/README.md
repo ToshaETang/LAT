@@ -1,4 +1,4 @@
-<p>Here is an example of AppleScript:</p>
+<p>Here is my source code</p>
 <pre><code>'use strict';
 const line = require('@line/bot-sdk'),
       express = require('express'),
@@ -19,10 +19,8 @@ const client = new line.Client(configLine);
 const app = express();
 
 const port = process.env.PORT || process.env.port || 3001;
-
 app.listen(port, ()=>{
-  console.log(`listening on ${port}`);
-   
+  console.log(`listening on ${port}`);   
 });
 
 async function MS_TextSentimentAnalysis(thisEvent){
@@ -32,7 +30,6 @@ async function MS_TextSentimentAnalysis(thisEvent){
     documents.push(thisEvent.message.text);
   
     const results = await analyticsClient.analyzeSentiment(documents,"zh-Hant",{includeOpinionMining: true});
-
     console.log("[results] ", JSON.stringify(results));
 
     if(results[0].sentiment == "positive"){
@@ -56,7 +53,6 @@ async function MS_TextSentimentAnalysis(thisEvent){
       };
       return client.replyMessage(thisEvent.replyToken, echo);
     }
-
 }
 
 app.post('/callback', line.middleware(configLine),(req, res)=>{
@@ -73,7 +69,6 @@ function handleEvent(event){
   if(event.type !== 'message' || event.message.type !== 'text'){
     return Promise.resolve(null);
   }
-
   MS_TextSentimentAnalysis(event)
     .catch((err) => {
       console.error("Error:", err);
