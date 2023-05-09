@@ -14,6 +14,10 @@
     "@azure/ai-text-analytics": "^5.1.0",
     "@line/bot-sdk": "^7.5.2",
     "config": "^3.3.9",
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "jieba": "^1.0.0",
+    "js-jieba": "^1.0.12",
+    "nltk": "^0.0.1",
+    "nodejieba": "^2.6.0"
   }
 }

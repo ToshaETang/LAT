@@ -1,4 +1,6 @@
 {
     "ENDPOINT":"https://toshaelsatang.cognitiveservices.azure.com/",
-    "TEXT_ANALYTICS_API_KEY":"c05242414e924741bc41abf47be5723a"
+    "TEXT_ANALYTICS_API_KEY":"c05242414e924741bc41abf47be5723a",
+    "CHANNEL_ACCESS_TOKEN":"nW8FQuJY7wuXc8w+1byW6xb+33HB4cgoqWXmFnDgBwR4uqFTZwa82VgJDaggua1mKtWWJP44vlshzyAR6Zwn08kX6k2mY5HNSCmrVMDpwEJYnryk/Qy1B2p7AtIFlUNzW6AKxTTvZ+i+rOAxHXpIpwdB04t89/1O/w1cDnyilFU=",
+    "CHANNEL_SECRET":"269ff555f4026188b9963e34a8a5b32c"
 }

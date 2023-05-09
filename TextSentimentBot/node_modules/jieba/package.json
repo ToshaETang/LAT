@@ -1,0 +1,24 @@
+{
+  "name": "jieba",
+  "version": "1.0.0",
+  "description": "jieba javascript implements browser support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/terasum/jieba.git"
+  },
+  "keywords": [
+    "chinese",
+    "segment",
+    "jieba"
+  ],
+  "author": "terasum <terasum@163.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/terasum/jieba/issues"
+  },
+  "homepage": "https://github.com/terasum/jieba#readme"
+}
