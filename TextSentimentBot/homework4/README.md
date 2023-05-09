@@ -77,3 +77,6 @@ function handleEvent(event){
     }); 
 }
 ```
+
+<p>Here is my result</p>
+![Alt text](TextSentimentBot/homework4/resultImage.jpg)
