@@ -1,4 +1,24 @@
-<p>Here is my source code</p>
+<p>構想: 透過輸入主體明顯且背景簡單的圖片，可得到該物體的英文單字，適合用於情境式英語學習</p>
+
+
+<p>主要更動: 改成顯示tags</p>
+
+```
+//顯示JSON內容
+        $("#responseTextArea").val(JSON.stringify(data, null, 2));
+        $("#picDescription").empty();
+        for (var x = 0; x < data.description.tags.length;x++){
+            $("#picDescription").append(data.description.tags[x] + "<br>");
+        }
+```
+
+![圖片](https://github.com/ToshaETang/LAT/blob/main/Samples/HW5/apple.jpg "結果")  
+![圖片](https://github.com/ToshaETang/LAT/blob/main/Samples/HW5/car.jpg "結果")  
+![圖片](https://github.com/ToshaETang/LAT/blob/main/Samples/HW5/hat.jpg "結果")  
+![圖片](https://github.com/ToshaETang/LAT/blob/main/Samples/HW5/banana.jpg "結果")  
+
+
+<p>source code</p>
 
 ```
 $(document).ready(function(){
@@ -105,7 +125,3 @@ function processImageFile(imageObject) {
 ```
 
 
-![圖片](https://github.com/ToshaETang/LAT/blob/main/Samples/HW5/apple.jpg "結果")  
-![圖片](https://github.com/ToshaETang/LAT/blob/main/Samples/HW5/car.jpg "結果")  
-![圖片](https://github.com/ToshaETang/LAT/blob/main/Samples/HW5/hat.jpg "結果")  
-![圖片](https://github.com/ToshaETang/LAT/blob/main/Samples/HW5/banana.jpg "結果")  
