@@ -6,4 +6,4 @@
   * 繪製熱力圖: https://github.com/ToshaETang/LAT/blob/main/finalProject/%E7%86%B1%E5%8A%9B%E5%9C%96.ipynb  
   * 使用者介面設計: https://github.com/ToshaETang/LAT/blob/main/finalProject/GUI/LATGUI.py  
 
-影片連結:  
+影片連結:https://www.youtube.com/watch?v=GGx8hlTBps0  
